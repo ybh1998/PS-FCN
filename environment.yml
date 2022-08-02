@@ -1,0 +1,11 @@
+name: PS-FCN
+dependencies:
+  - python=3.9
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.3
+  - numpy
+  - scipy
+  - imageio
+  - scikit-image
+
